@@ -7,5 +7,5 @@ La estructura del entregable se divide en:
 * Análisis Técnico: Detallar si es estable, in-place y adaptable.
 * Eficiencia (Big O): Analizar su complejidad temporal (mejor, promedio y peor caso) y espacial, usando gráficas o tablas comparativas.
 * Aplicación: Dar ejemplos reales de dónde se usa (bases de datos, gráficos, etc.).
-* 
+
 Finalmente, debemos entregar un .zip (ADA05_E[n].zip) que contenga tanto el documento de Word (.docx) como la presentación (.pptx) con la nomenclatura correcta.
