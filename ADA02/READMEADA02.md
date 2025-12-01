@@ -1,5 +1,5 @@
 # ADA02 COLAS
-**Descripción:**El propósito de este programa es simular el sistema de atención de un banco que cuenta con tres cajas operativas. La lógica del sistema funciona de la siguiente manera:
+**Descripción:** El propósito de este programa es simular el sistema de atención de un banco que cuenta con tres cajas operativas. La lógica del sistema funciona de la siguiente manera:
 
 Generación de Entorno: El programa crea clientes de forma aleatoria. A cada cliente se le asigna un número de transacciones (que determina cuánto tiempo tardará en ser atendido) y se le dirige aleatoriamente a una de las tres colas disponibles.
 
