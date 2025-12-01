@@ -8,4 +8,14 @@
 * [ADA02: Colas](./ADA02).
 **Descripción:**
 
-* [ADA03: Listas]
+* [ADA03: Listas](./ADA03).
+**Descripción:**
+
+* [ADA04: Árboles](./ADA04).
+**Descripción:**
+
+* [ADA05: Ordenamiento](./ADA05).
+**Descripción:**
+
+* [ADA07: Hashing](./ADA07).
+**Descripción:**
