@@ -12,12 +12,12 @@
 **Descripción:** Mediante un archivo Movies.csv se implemento el almacenamiento y manejo de elementos de forma secuencial, permitiendo operaciones como insertar, eliminar y recorrer los elementos en cualquier posición.
 
 * [ADA04: Árboles](./ADA04).
-**Descripción:** Se implemento un sistema que almacena y gestiona información de los estudiantes usando un
+**Descripción:** Se implementó un sistema que almacena y gestiona información de los estudiantes usando un
 ABB, donde la matrícula (numérico) del estudiante será el atributo según el que se ordenará la información en el
 árbol.
 
 * [ADA05: Ordenamiento](./ADA05).
-**Descripción:**
+**Descripción:** 
 
 * [ADA07: Hashing](./ADA07).
 **Descripción:**
