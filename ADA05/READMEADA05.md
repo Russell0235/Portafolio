@@ -9,3 +9,5 @@ La estructura del entregable se divide en:
 * Aplicación: Dar ejemplos reales de dónde se usa (bases de datos, gráficos, etc.).
 
 Finalmente, debemos entregar un .zip (ADA05_E[n].zip) que contenga tanto el documento de Word (.docx) como la presentación (.pptx) con la nomenclatura correcta.
+
+**Reflexión:** De esta actividad aprendi que existen varias formas de ordenar estructuras de datos las cuales cada una de ellas tienen sus diferencias, en cuanto al manejo de listas grandes o pequeñas de datos, uso de memoria, ventajas y desventajas, etc.
