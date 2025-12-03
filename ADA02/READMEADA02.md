@@ -8,3 +8,5 @@ Procesamiento: El sistema gestiona el flujo, registrando exactamente cuándo ent
 Resultados y Métricas: Al finalizar, el programa calcula estadísticas clave de rendimiento, como el tiempo promedio de espera y la cantidad total de clientes atendidos por cada caja.
 
 A nivel técnico, estoy implementando la solución en C, estructurando los datos de los clientes mediante structs, modularizando el código con funciones específicas y, lo más importante, aplicando correctamente la estructura de datos Queue (Cola) para manejar el orden de atención.
+
+**Reflexión:** Lo que aprendi de esta actividad fue como las colas se usan para planificar y atender procesos en orden de llegada. En este caso pude ver lo útiles que son para manejar clientes, tiempos de espera y su eficiencia.
