@@ -7,3 +7,5 @@ Conversión: Transformo la expresión matemática normal (infija) a Notación Po
 Evaluación: Proceso esa notación postfija para obtener el resultado numérico.
 
 El programa se ejecuta desde la línea de comandos (terminal). Toma un archivo de entrada con las operaciones separadas por punto y coma, y genera un archivo de salida que muestra la conversión postfija junto con el resultado final de cada expresión.
+
+**Reflexión:** Lo que aprendí de esta actividad es la manera en la cual este método de pilas nos facilita la organización o manejo de las expresiones aritméticas para conseguir lo que nos pide esta actividad, aparte de todo, trabajar con ella me dio a entender que era una estructura sencilla la cual me ayudo a comprender más sobre este tema. 
