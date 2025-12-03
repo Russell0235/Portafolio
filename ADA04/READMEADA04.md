@@ -13,3 +13,5 @@ Recorridos: Se generan reportes ordenados por matrícula (In-Order) y filtrados 
 * Algoritmos de Búsqueda: Incluye funciones avanzadas como contar nodos con valor menor a una matrícula dada (cálculo de rango) y la impresión de niveles específicos del árbol.
 
 * Visualización: Se implementa una representación gráfica del árbol en formato ASCII para la consola.
+
+**Reflexión:** De esta actividad aprendí cómo los árboles binarios de búsqueda pueden organizar información de forma eficiente. Al gestionar estudiantes por matrícula y generar distintos reportes, aparte de todo me permitio ver lo útil que es esta estructura para buscar, insertar y ordenar datos rápidamente.
