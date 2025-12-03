@@ -21,4 +21,8 @@ ABB, donde la matrícula (numérico) del estudiante será el atributo según el 
 funcionamiento, características, eficiencia y casos de uso, según la categoría correspondiente.
 
 * [ADA07: Hashing](./ADA07).
+
 **Descripción:**
+* Aplicacion 1: En esta actividad de simplemento un sistema para universidades que almacene estudiantes usando su matrícula como clave. La
+clave está compuesta por solo números de máximo 6 dígitos. Los estudiantes deben ser recuperados eficientemente, incluso con colisiones.
+* Aplicación 2: En esta actividad se implemento un compilador o intérprete, que mantiene un registro de los identificadores (variables, funciones, etc.) y sus atributos (tipo, valor, ámbito, etc.).
