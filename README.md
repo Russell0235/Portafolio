@@ -17,7 +17,8 @@ ABB, donde la matrícula (numérico) del estudiante será el atributo según el 
 árbol.
 
 * [ADA05: Ordenamiento](./ADA05).
-**Descripción:** 
+**Descripción:** En esta actividad se pide investigar y presentar un algoritmo de ordenamiento asignado, explicando su
+funcionamiento, características, eficiencia y casos de uso, según la categoría correspondiente.
 
 * [ADA07: Hashing](./ADA07).
 **Descripción:**
